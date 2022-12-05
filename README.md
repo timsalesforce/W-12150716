@@ -12,3 +12,7 @@
 - See that the inline edit element retains the value entered above
 - Now remove focus from the cell
 - See that the value of the cell is set to the value previously entered
+
+
+https://user-images.githubusercontent.com/79594467/205694170-4bd9d99e-a779-4760-a0f7-6a6ca3413728.mov
+
