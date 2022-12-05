@@ -1,0 +1,31 @@
+<template>
+
+    <div style="height: 300px">
+    
+    
+    
+    <lightning-datatable
+    
+    key-field="id"
+    
+    data={data}
+    
+    show-row-number-column
+    
+    row-number-offset={rowOffset}
+    
+    suppress-bottom-bar
+    
+    columns={columns}
+    
+    draft-values={draftValues}
+    
+    onsave={handleSave}
+    
+    oncellchange={handleCellChange}>
+    
+    </lightning-datatable>
+    
+    </div>
+    
+    </template>
